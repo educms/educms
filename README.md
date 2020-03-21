@@ -24,7 +24,7 @@ CMS ini didesign untuk website sekolah baik SD SMP maupun SMA sederajat, dengan 
 
 <p><br />
 =====================================================<br />
-<b>Langkah Instalasi (Pemasangan CMS)</b>
+<b>Langkah Instalasi (Pemasangan CMS)</b></br>
 =====================================================<br />
 <b>- Membuat dan Unggah Database</b>
 <ol>
