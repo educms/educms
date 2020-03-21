@@ -22,10 +22,10 @@ CMS ini didesign untuk website sekolah baik SD SMP maupun SMA sederajat, dengan 
                           </ul>
                           CMS ini bisa didapatkan dengan gratis di github kami <a href="https://github.com/educms/educms" target="_blank">EDUCMS</a>
 
-<p>
-=====================================================
+<p><br />
+=====================================================<br />
 <b>Langkah Instalasi (Pemasangan CMS)</b>
-=====================================================
+=====================================================<br />
 <b>- Membuat dan Unggah Database</b>
 <ol>
 <li>Buat Database di DBMS MYSQL kalian bisa lewat PHPMyAdmin atau menggunana Mysql CLI</li>
