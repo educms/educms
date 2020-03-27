@@ -77,7 +77,7 @@
                     <div class="card-body">
                         <div id="disqus_thread"></div>
                         <script type="text/javascript">
-                            var disqus_shortname = 'situs-resmi-kabupaten-tuban';
+                            var disqus_shortname = 'edu-cms';
                             var disqus_url = '{{ FunctionStatic::url_post($post->post_slug) }}';
 
                             (function () {
